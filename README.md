@@ -50,7 +50,7 @@ Competitive programming
 
 🌐 Live Demo
 
-👉 file:///C:/Users/GURUKR~1/AppData/Local/Temp/Rar$EXa9480.43055/Algoviz-pro.in-main/algo-visualizer-v13%20(1).html
+👉  https://naturelife752-star.github.io/Algoviz-pro.in/
 
 🛠️ Built With
 
